@@ -13,7 +13,7 @@ function Hero() {
           I'm a Computer Science undergrad and tech enthusiast based in India. I co-founded Twinverse Technology, focusing on AR, VR, and spatial computing. My work has been showcased at international exhibitions, and I won the Gitex YouthX 2022 in Dubai. I'm dedicated to bridging reality and the virtual world through innovative tech solutions.
         </span>
       </div>
-      <div className="right w-screen sm:mb-16 md:w-1/2 h-[50vh] lg:h-[80vh] md:h-[40vh] " >
+      <div className="right w-screen sm:mb-16 md:w-1/2 h-[40vh] lg:h-[80vh] md:h-[40vh] " >
         <Globe  path="/space_boi.glb" />
       </div>
     </div>
